@@ -1,0 +1,1317 @@
+{
+  "versi": 1,
+  "jenis": "data",
+  "kode_penulis": "P001",
+  "halaman": 1,
+  "jumlah_halaman": 2,
+  "seed": 0,
+  "keterangan": "Koordinat dalam mm, asal kiri-atas, y ke bawah. kelas 0-9 = digit, 10 = tanda negatif.",
+  "halaman_mm": [
+    210.0,
+    297.0
+  ],
+  "px_per_mm": 8,
+  "inset_mm": 1.5,
+  "aruco": {
+    "kamus": "DICT_4X4_50",
+    "ukuran_mm": 15.0,
+    "penanda": [
+      {
+        "id": 0,
+        "sudut_mm": [
+          [
+            10.0,
+            10.0
+          ],
+          [
+            25.0,
+            10.0
+          ],
+          [
+            25.0,
+            25.0
+          ],
+          [
+            10.0,
+            25.0
+          ]
+        ]
+      },
+      {
+        "id": 1,
+        "sudut_mm": [
+          [
+            185.0,
+            10.0
+          ],
+          [
+            200.0,
+            10.0
+          ],
+          [
+            200.0,
+            25.0
+          ],
+          [
+            185.0,
+            25.0
+          ]
+        ]
+      },
+      {
+        "id": 2,
+        "sudut_mm": [
+          [
+            185.0,
+            272.0
+          ],
+          [
+            200.0,
+            272.0
+          ],
+          [
+            200.0,
+            287.0
+          ],
+          [
+            185.0,
+            287.0
+          ]
+        ]
+      },
+      {
+        "id": 3,
+        "sudut_mm": [
+          [
+            10.0,
+            272.0
+          ],
+          [
+            25.0,
+            272.0
+          ],
+          [
+            25.0,
+            287.0
+          ],
+          [
+            10.0,
+            287.0
+          ]
+        ]
+      }
+    ]
+  },
+  "kotak": [
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 0,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 0,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 0,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 0,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 0,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 0,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 0,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 0,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 0,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 0,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 58.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 1,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 1,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 1,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 1,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 1,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 1,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 1,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 1,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 1,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 1,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 77.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 2,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 2,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 2,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 2,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 2,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 2,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 2,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 2,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 2,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 2,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 96.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 3,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 3,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 3,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 3,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 3,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 3,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 3,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 3,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 3,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 3,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 115.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 4,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 4,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 4,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 4,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 4,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 4,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 4,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 4,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 4,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 4,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 134.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 5,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 5,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 5,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 5,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 5,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 5,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 5,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 5,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 5,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 5,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 153.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 6,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 6,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 6,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 6,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 6,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 6,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 6,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 6,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 6,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 6,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 172.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 7,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 7,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 7,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 7,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 7,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 7,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 7,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 7,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 7,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 7,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 191.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 8,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 8,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 8,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 8,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 8,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 8,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 8,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 8,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 8,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 8,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 210.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 9,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 9,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 9,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 9,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 9,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 9,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 9,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 9,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 9,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 10,
+      "label": "minus",
+      "baris": 9,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 229.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 7,
+      "label": "7",
+      "baris": 10,
+      "kolom": 0,
+      "x": 21.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 9,
+      "label": "9",
+      "baris": 10,
+      "kolom": 1,
+      "x": 38.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 0,
+      "label": "0",
+      "baris": 10,
+      "kolom": 2,
+      "x": 55.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 6,
+      "label": "6",
+      "baris": 10,
+      "kolom": 3,
+      "x": 72.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 8,
+      "label": "8",
+      "baris": 10,
+      "kolom": 4,
+      "x": 89.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 4,
+      "label": "4",
+      "baris": 10,
+      "kolom": 5,
+      "x": 106.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 2,
+      "label": "2",
+      "baris": 10,
+      "kolom": 6,
+      "x": 123.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 5,
+      "label": "5",
+      "baris": 10,
+      "kolom": 7,
+      "x": 140.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 3,
+      "label": "3",
+      "baris": 10,
+      "kolom": 8,
+      "x": 157.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    },
+    {
+      "peran": "karakter",
+      "kelas": 1,
+      "label": "1",
+      "baris": 10,
+      "kolom": 9,
+      "x": 174.0,
+      "y": 248.0,
+      "w": 15.0,
+      "h": 15.0
+    }
+  ]
+}

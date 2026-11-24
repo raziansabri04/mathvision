@@ -1,0 +1,63 @@
+# =====================================================================
+# .gitignore MathVision
+# Tanda "/" di awal berarti hanya folder di akar repo (bukan semua folder
+# dengan nama itu). Penting agar templates/data/ tidak ikut terabaikan.
+# =====================================================================
+
+# --- PRIVASI: data siswa dan penulis TIDAK boleh masuk repositori ------
+# Proposal: foto tidak disimpan di disk maupun repositori. Bagikan dataset
+# lewat penyimpanan terpisah (mis. Google Drive tim), bukan Git.
+/data/
+/dataset/
+/foto/
+*.jpg
+*.jpeg
+*.heic
+*.HEIC
+# Foto yang BUKAN data siswa (mis. contoh untuk dokumentasi) boleh dipaksa
+# masuk dengan:  git add -f nama_berkas.jpg
+
+# --- Basis data dan hasil ekspor (berisi skor per kode siswa) ----------
+*.db
+*.sqlite
+*.sqlite3
+/exports/
+/hasil/
+
+# --- Rahasia dan konfigurasi lokal -------------------------------------
+.env
+.streamlit/secrets.toml
+
+# --- Model --------------------------------------------------------------
+# Checkpoint PyTorch hasil pelatihan bisa besar dan sering berubah: abaikan.
+# Model ONNX final (yang dipakai Streamlit Community Cloud) sengaja TIDAK
+# diabaikan agar ikut ter-deploy, simpan di models/.
+*.pt
+*.pth
+*.ckpt
+/runs/
+/checkpoints/
+/lightning_logs/
+
+# --- Python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Lingkungan virtual --------------------------------------------------
+.venv/
+venv/
+env/
+
+# --- Notebook (Colab/Kaggle) --------------------------------------------
+.ipynb_checkpoints/
+
+# --- Editor dan sistem operasi ------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
